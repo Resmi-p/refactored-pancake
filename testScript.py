@@ -12,4 +12,4 @@ test = np.linspace(1, 10, 10)
 for i in test:
     print(i)
     
-    print('hello')
+    print('goodbye')
