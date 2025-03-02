@@ -6,6 +6,9 @@ This is a temporary script file.
 """
 
 import numpy as np
+import pandas as pd
+
+test_df =  pd.read_csv('bond_etfs.csv')
 
 test = np.linspace(1, 10, 10)
 
